@@ -1,10 +1,7 @@
 # Credit-Risk-Classification
-
-# Module 12 Report Template
+Module 20
 
 ## Overview of the Analysis
-
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
 
 The purpose of this analysis was to analyze lending data to train and evalue the model based on loan risk using logistic regression. We needed to predict whether a loan request was "healthy" or "high risk" which we obtained from the "loan_status" column of the dataset. Differentiation between a healthy loan vs a high risk loan was dependent on a number of factors including the loan size, interest rate, income, debt to income, the number of accounts, derogatory marks and total debt.
